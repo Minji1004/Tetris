@@ -1,0 +1,4 @@
+﻿  TetrisMain5.cpp
+c:\users\dlals\source\repos\tetris5\tetris5\block.h(30): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dlals\source\repos\tetris5\tetris5\console_doublebuffering.h(36): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Tetris5.vcxproj -> C:\Users\dlals\source\repos\Tetris5\Debug\Tetris5.exe
